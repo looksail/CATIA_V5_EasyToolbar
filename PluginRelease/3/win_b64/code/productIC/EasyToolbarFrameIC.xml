@@ -1,0 +1,9 @@
+<?xml version='1.0' ?>
+<codeFramework xmlns = "http://www.3ds.ic" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "http://www.3ds.ic ICModel.xsd">
+  <prerequisite access = "Protected" name = "System"/>
+  <prerequisite access = "Protected" name = "ApplicationFrame"/>
+  <prerequisite access = "Protected" name = "AutomationInterfaces"/>
+  <prerequisite access = "Public" name = "CATIAApplicationFrame"/>
+  <prerequisite access = "Public" name = "InfInterfaces"/>
+  <built value = "true"/>
+</codeFramework>

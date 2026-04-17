@@ -1,0 +1,41 @@
+!----------------------------------------------------------
+!   DASSAULT SYSTEMES  -  V5 ENVIRONMENT FILE
+!----------------------------------------------------------
+! MODE : User
+! TYPE : CATIA
+! TMSTMP : 1767871825
+! ARGS : -icon yes -menu yes -cs CATIA -a user 
+!----------------------------------------------------------
+
+CATInstallPath=CATIADir;EasytoolbarDir\
+CATDLLPath=CATIADir\code\bin;EasytoolbarDir\code\bin
+CATICPath=CATIADir\code\productIC;EasytoolbarDir\code\productIC
+CATCommandPath=CATIADir\code\command;EasytoolbarDir\code\command
+CATDictionaryPath=CATIADir\code\dictionary;EasytoolbarDir\code\dictionary
+CATDocView=CATIADir\doc;EasytoolbarDir\doc
+CATReffilesPath=CATIADir\reffiles;EasytoolbarDir\reffiles
+CATFontPath=CATIADir\resources\fonts;EasytoolbarDir\resources\fonts
+CATGalaxyPath=CATIADir\resources\galaxy;EasytoolbarDir\resources\galaxy
+CATGraphicPath=CATIADir\resources\graphic;EasytoolbarDir\resources\graphic;CATIADir\resources\graphic\icons;EasytoolbarDir\resources\graphic\icons;CATIADir\resources\graphic\figures;EasytoolbarDir\resources\graphic\figures;CATIADir\resources\graphic\splashscreens;EasytoolbarDir\resources\graphic\splashscreens;CATIADir\resources\graphic\symbols;EasytoolbarDir\resources\graphic\symbols;CATIADir\resources\graphic\textures;EasytoolbarDir\resources\graphic\textures
+CATMsgCatalogPath=CATIADir\resources\msgcatalog;EasytoolbarDir\resources\msgcatalog
+CATFeatureCatalogPath=CATIADir\resources\featurecatalog;EasytoolbarDir\resources\featurecatalog
+CATDefaultCollectionStandard=CATIADir\resources\standard;EasytoolbarDir\resources\standard
+CATKnowledgePath=CATIADir\resources\knowledge;EasytoolbarDir\resources\knowledge
+CATStartupPath=CATIADir\startup;EasytoolbarDir\startup
+CATW3ResourcesPath=CATIADir\docs;EasytoolbarDir\docs
+CATReconcilePath=
+CATReferenceSettingPath=
+CATUserSettingPath=CSIDL_APPDATA\DassaultSystemes\CATSettings
+CATCollectionStandard=
+CATTemp=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp
+CATMetasearchPath=DSKEY_TMPDIR
+CATW3PublishPath=DSKEY_TMPDIR
+CATSharedWorkbookPath=DSKEY_TMPDIR
+CATErrorLog=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATTemp\error.log
+CATReport=CSIDL_LOCAL_APPDATA\DassaultSystemes\CATReport
+CATDisciplinePath=
+USER_HOME=CSIDL_PERSONAL
+JAVA_HOME=%JAVA_HOME%
+CLASSPATH_JDBC=
+CLASSPATH=%CLASSPATH_JDBC%;%CLASSPATH%
+PATH=CATIADir\code\bin;EasytoolbarDir\code\bin;CATIADir\code\command;EasytoolbarDir\code\command;%JAVA_HOME%\bin;%PATH%

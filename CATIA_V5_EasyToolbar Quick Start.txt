@@ -1,0 +1,16 @@
+CATIA_V5_EasyToolbar Quick Start
+
+1. Download the entire directory to the desktop
+
+2. Navigate to VCRedist and run the installer , review the VCRedist installation
+
+3. Copy EasyToolbar_Demo to the root directory of drive C
+
+4. Run CATIA_V5_EasyToolbar_Configuration_Tool.exe and save again to update the runtime.
+
+5. Run CATIA_V5_EasyToolbar_Setup.exe as administrator to install, and check the required CATIA versions.
+
+6. Launch the shortcut added on the desktop
+
+7. Run each demo. Note: For multiple selection in SelectEdgeFillet (C# EXE2), hold down the Ctrl key
+

@@ -1,0 +1,16 @@
+.\win_b64\code\bin\EasyToolbarModule.dll
+.\win_b64\code\bin\EasyToolbarModule.pdb
+.\win_b64\code\dictionary\EasyToolbarFrame.dico
+.\win_b64\code\lib\EasyToolbarModule.exp
+.\win_b64\code\lib\EasyToolbarModule.lib
+.\win_b64\code\productIC\EasyToolbarFrameIC.required
+.\win_b64\code\productIC\EasyToolbarFrameIC.script
+.\win_b64\code\productIC\EasyToolbarFrameIC.xml
+.\win_b64\control\EasyToolbarFrame
+.\win_b64\resources\msgcatalog\DbcsTest\EasyToolbarCmdHeader.CATNls
+.\win_b64\resources\msgcatalog\DbcsTest\MyEasyToolbarComponent.CATNls
+.\win_b64\resources\msgcatalog\EasyToolbarCmdHeader.CATNls
+.\win_b64\resources\msgcatalog\EasyToolbarCmdHeader.CATRsc
+.\win_b64\resources\msgcatalog\MyEasyToolbarComponent.CATNls
+.\win_b64\resources\msgcatalog\NlsTest\EasyToolbarCmdHeader.CATNls
+.\win_b64\resources\msgcatalog\NlsTest\MyEasyToolbarComponent.CATNls

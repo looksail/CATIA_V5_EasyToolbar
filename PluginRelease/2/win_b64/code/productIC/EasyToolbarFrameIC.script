@@ -1,0 +1,8 @@
+<I.C SCRIPT>  WINNT 1
+M8 1 "" ""
+M1 2 System,2
+M1 2 ApplicationFrame,2
+M1 2 AutomationInterfaces,2
+M1 2 CATIAApplicationFrame,1
+M1 2 InfInterfaces,1
+EOF

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<IdentityCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation='ICSchema.xsd' >
+<OperatingSystem>WINNT</OperatingSystem>
+<Type>Code</Type>
+<SetCopyright>&quot;&quot; &quot;&quot;</SetCopyright>
+
+<AddPrereqComponent>
+<Target>System</Target>
+<Access>Protected</Access>
+</AddPrereqComponent>
+
+<AddPrereqComponent>
+<Target>ApplicationFrame</Target>
+<Access>Protected</Access>
+</AddPrereqComponent>
+
+<AddPrereqComponent>
+<Target>AutomationInterfaces</Target>
+<Access>Protected</Access>
+</AddPrereqComponent>
+
+<AddPrereqComponent>
+<Target>CATIAApplicationFrame</Target>
+<Access>Public</Access>
+</AddPrereqComponent>
+
+<AddPrereqComponent>
+<Target>InfInterfaces</Target>
+<Access>Public</Access>
+</AddPrereqComponent>
+
+</IdentityCard>

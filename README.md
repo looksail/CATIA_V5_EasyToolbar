@@ -29,4 +29,6 @@ After long-term verification in practical engineering projects and iterative fun
 ---
 
 ## 📸 Screenshot
-<img width="1283" height="995" alt="CATIA_V5_EasyToolbar UI Screenshot" src="https:/
+
+<img width="1283" height="995" alt="CATIA_V5_EasyToolbar Screenshot" src="https://github.com/user-attachments/assets/6b97d211-efd6-45ac-aaf4-293e0434f1f5" />
+
